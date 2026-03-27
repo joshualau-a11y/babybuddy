@@ -101,4 +101,4 @@ src/
 - [ ] **E-Mail-Benachrichtigungen** – via Supabase Edge Functions
 - [ ] **Profilseiten** – Babysitter-Profil bearbeiten
 - [ ] **Karte** – Babysitter auf Google Maps anzeigen
-- [ ] **Deployment** – `vercel deploy`
+- [ ] **Deployment** – `vercel deploy` 
